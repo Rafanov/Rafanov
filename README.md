@@ -23,14 +23,6 @@ My name is Raihan Fariz N Also Known As KuyangKutai.
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafanov&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-    height="150"
-  />
-</p>
-
-
 
 <!--
 **Rafanov/Rafanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
