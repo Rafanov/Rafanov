@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Raihan Fariz N Also Known As KuyangKutai.
+My name is Raihan Fariz N Also Known As KuyangKutai, Mulawarmann University Undergraduate Student Thrid Semester in Information System.
+Focussed on Cyber Security and Machine Learning.
 
 
 # Tech Stack:
