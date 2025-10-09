@@ -2,6 +2,9 @@
 My name is Raihan Fariz N Also Known As KuyangKutai, Mulawarmann University Undergraduate Student Thrid Semester in Information System.
 Focussed on Cyber Security and Machine Learning.
 
+# Project:
+Personal Web for CV: Evangelion (EVA 01 and Ayanami Theme) with little terminal like a hacker
+
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
