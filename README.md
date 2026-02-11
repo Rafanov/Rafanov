@@ -3,7 +3,7 @@ My name is Rafanov Also Known As KuyangKutai, Mulawarmann University Undergradua
 Focused on Cyber Security and Machine Learning.
 
 # Project:
-Personal Web for CV: Evangelion (EVA 01 and Ayanami Theme) with little terminal like a hacker
+-
 
 
 # Tech Stack:
